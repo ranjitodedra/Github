@@ -1,5 +1,4 @@
-# Github
-Github Documentation
+# Github Documentation
 
 # heading1  <!-- # for heading -->
 ## heading2  <!-- space is also important -->
